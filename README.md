@@ -1,4 +1,4 @@
-# 🗄️🌐 Build-Virtual-Lab-
+# 🗄️🌐 Build-Virtual-Lab- 🌀📶
 
 Overiew
 This project demonstrates the setup and configuration of a virtualized network environment using two virtual machines — one Linux-based and one Windows-based. The goal is to practice fundamental system administration, networking, and basic security hygiene concepts in a controlled lab environment.
@@ -10,16 +10,16 @@ This project demonstrates the setup and configuration of a virtualized network e
     - 🪟 **WIN-CLIENT-01** (Windows)
     - 🐧 **LINUX-SERVER-01** (Linux)
 
-### 2) Network Design
+### 2) Network Design 🔧
 
 - **NAT** for internet access
 - **Internal Network** for VM-to-VM communication (sent pings)
 
-### 3) Connectivity Validation
+### 3) Connectivity Validation ✅ 
 
 - Confirmed communication between **WIN-CLIENT-01** and **LINUX-SERVER-01** over the internal network.
 
-### 4) Basic System Hardening
+### 4) Basic System Hardening 🛡️🔒 
 
 **Windows (WIN-CLIENT-01)**
 
@@ -32,11 +32,11 @@ This project demonstrates the setup and configuration of a virtualized network e
 - Hardened **SSH** configuration
 - Installed and configured **Fail2Ban**
 
-### 5) Snapshots and Rollback
+### 5) Snapshots and Rollback 📸
 
 - Created **snapshots** to support quick rollback after testing or configuration changes.
 
-### 6) Key Takeaways
+### 6) Key Takeaways 🧠
 
 - Build a **safe testing environment**
 - Apply **security hardening early**
