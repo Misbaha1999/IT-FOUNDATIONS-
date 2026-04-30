@@ -14,27 +14,27 @@ This project demonstrates the setup and configuration of a virtualized network e
 <br><br>
 <img width="529" height="448" alt="image" src="https://github.com/user-attachments/assets/b5333660-369f-4ff7-a2f6-7c77f79c6830" />
 
-
-
-<h2>2) Network Design 🔧📡</h2>
+<br><br>
+<h2>2) Network Design / Configuration 🔧📡</h2>
 
 - **NAT** for internet access
-- **Internal Network** for VM-to-VM communication (sent pings)
 
 
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/65180f5a-2195-42df-95e3-7c5586bb3809" />
+<br><br>
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/f72b3357-8711-4004-9c99-468056b31375" />
+<br><br>
 <h2>3) Connectivity Validation ✅ </h2> 
 
 - Confirmed communication between **WIN-CLIENT-01** and **LINUX-SERVER-01** over the internal network.
-
+- **Internal Network** for VM-to-VM communication (sent pings)
 
 
 <img width="407" height="299" alt="image" src="https://github.com/user-attachments/assets/ba761203-31cf-45de-80f2-ba811cc29ff0" />
-
 <br><br>
-
 <img width="407" height="279" alt="image" src="https://github.com/user-attachments/assets/13b78471-83a1-470d-81b3-5b947aa4e7cf" />
-
-### 4) Basic System Hardening 🛡️🔒 
+<br><br>
+<### 4) Basic System Hardening 🛡️🔒 
 
 **Windows (WIN-CLIENT-01)** 🧱🧯
 
