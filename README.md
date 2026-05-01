@@ -52,6 +52,7 @@ This project demonstrates the setup and configuration of a virtualized network e
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/65f473e2-bfaf-43dd-861f-a9a158c08e8f" />
 
 
+<br><br>
 ### 5) Snapshots and Rollback 📸⏪ 
 
 - Created **snapshots** to save clean states and support quick rollback after testing or configuration changes.
@@ -60,16 +61,24 @@ This project demonstrates the setup and configuration of a virtualized network e
 <br><br>
 <img width="700" height="250" alt="image" src="https://github.com/user-attachments/assets/42c4472a-1815-4ec7-82dd-7124c5c9dfca" />
 
-
+<br><br>
 
 ### 6) Key Takeaways 🧠🏁
 
 - Build a **safe testing environment**
 - Apply **security hardening early**
 - Keep everything **documented and repeatable**
-
-  <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/4f858b6b-4224-459b-9c58-b94c230355bc" />
+<p allign="center">
+  <img width="550" height="300" alt="image" src="https://github.com/user-attachments/assets/4f858b6b-4224-459b-9c58-b94c230355bc" />
+</p>
   <br><br>
-  <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/22cd603c-f6f7-4a55-8c1d-15bd9138507b" />
+<p allign="center">
+  <img width="550" height="300" alt="image" src="https://github.com/user-attachments/assets/22cd603c-f6f7-4a55-8c1d-15bd9138507b" />
+</p>
+<p allign="center">
+  <img width="500" height="400" alt="SOC Lab Topology"
+       src="https://github.com/user-attachments/assets/b62457bf-c82b-41ad-aefd-d3770e0761e1" />
+</p>
+
 
 
