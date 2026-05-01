@@ -73,8 +73,9 @@ This project demonstrates the setup and configuration of a virtualized network e
 </p>
   <br><br>
 <p allign="center">
-  <img width="550" height="300" alt="image" src="https://github.com/user-attachments/assets/22cd603c-f6f7-4a55-8c1d-15bd9138507b" />
+  <img width="550" height="300" alt="image" src="https://github.com/user-attachments/assets/22cd603c-f6f7-4a55-8c1d-15bd9138507b" 
 </p>
+    <br><br>
 <p allign="center">
   <img width="500" height="400" alt="SOC Lab Topology"
        src="https://github.com/user-attachments/assets/b62457bf-c82b-41ad-aefd-d3770e0761e1" />
