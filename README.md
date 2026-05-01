@@ -54,10 +54,22 @@ This project demonstrates the setup and configuration of a virtualized network e
 
 ### 5) Snapshots and Rollback 📸⏪ 
 
-- Created **snapshots** to support quick rollback after testing or configuration changes.
+- Created **snapshots** to save clean states and support quick rollback after testing or configuration changes.
+
+<img width="700" height="250" alt="image" src="https://github.com/user-attachments/assets/45647420-740b-4bf8-bed1-521f73b9eb21" />
+<br><br>
+<img width="700" height="250" alt="image" src="https://github.com/user-attachments/assets/42c4472a-1815-4ec7-82dd-7124c5c9dfca" />
+
+
 
 ### 6) Key Takeaways 🧠🏁
 
 - Build a **safe testing environment**
 - Apply **security hardening early**
 - Keep everything **documented and repeatable**
+
+  <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/4f858b6b-4224-459b-9c58-b94c230355bc" />
+  <br><br>
+  <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/22cd603c-f6f7-4a55-8c1d-15bd9138507b" />
+
+
